@@ -1,0 +1,20 @@
+**** VIM CHEAT SHEET ****
+------------------------------
+Up      | k
+Down    | j
+Left    | h
+Right   | l
+---------------------------------------------------------------
+Forward one Word        | w
+Backwards by a Word     | b
+---------------------------------------------------------------
+Yank a Line             | yy
+Delete a Line           | dd
+Print from Register     | p
+---------------------------------------------------------------
+Undo LAST Command       | u
+---------------------------------------------------------------
+Highlight a Line            | V
+Highlight where you are at  | v
+
+
