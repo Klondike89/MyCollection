@@ -1,12 +1,21 @@
+**** TABLE OF CONTENTS ****
+---------------------------------------------------------------
+ Topic      | Line  | Topic      | Line  |
+>VIM        |    10 |>SIGNIFY    |   40  |
+-basics     | 12-24 |-toggle     | 
+
+
+
+
 **** VIM CHEAT SHEET ****
 ------------------------------
-Up      | k
-Down    | j
-Left    | h
-Right   | l
+Up      | k ||| -Help         | :help                |
+Down    | j ||| >Pluggin Help | :help <pluggin-name> |
+Left    | h |||
+Right   | l |||
 ---------------------------------------------------------------
-Forward one Word        | w
-Backwards by a Word     | b
+Forward one Word        | w | Include punctuation | W |
+Backwards by a Word     | b | Include punctuation | B |
 ---------------------------------------------------------------
 Yank a Line             | yy
 Delete a Line           | dd
@@ -16,5 +25,27 @@ Undo LAST Command       | u
 ---------------------------------------------------------------
 Highlight a Line            | V
 Highlight where you are at  | v
+---------------------------------------------------------------
+
+---------------------------------------------------------------
 
 
+
+
+
+
+
+
+
+**** SIGNIFY ****
+
+
+
+
+
+
+
+
+
+**** FUgitIVE ****
+Initiate git command    | :G
