@@ -26,7 +26,8 @@ Undo LAST Command       | u
 Highlight a Line            | V
 Highlight where you are at  | v
 ---------------------------------------------------------------
-
+Move VIM to Background      | [Ctl]+z |
+ReOpen VIM from Background  |  $ fg   |
 ---------------------------------------------------------------
 
 
