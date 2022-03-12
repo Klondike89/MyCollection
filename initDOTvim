@@ -60,8 +60,11 @@ endif
 
 " Now the actual plugins:
 
+<<<<<<< HEAD
 " Dir specific functions
 Plug 'chazy/dirsettings'
+=======
+>>>>>>> 4bb4f2981a0513ac4281d9ecb90765dbb5b071a0
 " Vim Wiki plugin
 Plug 'vimwiki/vimwiki'
 Plug 'chipsenkbeil/vimwiki-server.nvim', { 'tag': 'v0.1.0-alpha.5' }
